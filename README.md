@@ -1,1 +1,2 @@
 # odin-recipes
+Today i have setup all the necessary things to get started with odin project and i have completed the git basics i have know and idea of how i can use the Git and Github after that i have recalled my knowledge in HTML so this what i have accomplished.
